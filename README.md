@@ -1,15 +1,15 @@
 ![Screenshot](/art/cover-uppy.png)
 
 <p align="center">
-   <a href="https://packagist.org/packages/spykapp/filament-uppy-upload">
-    <img src="https://img.shields.io/packagist/v/spykapp/filament-uppy-upload.svg?style=for-the-badge" alt="Packagist Version">
+   <a href="https://packagist.org/packages/spykapps/filament-uppy-upload">
+    <img src="https://img.shields.io/packagist/v/spykapps/filament-uppy-upload.svg?style=for-the-badge" alt="Packagist Version">
    </a>
-   <a href="https://packagist.org/packages/spykapp/filament-uppy-upload">
-    <img src="https://img.shields.io/packagist/dt/spykapp/filament-uppy-upload.svg?style=for-the-badge" alt="Total Downloads">
+   <a href="https://packagist.org/packages/spykapps/filament-uppy-upload">
+    <img src="https://img.shields.io/packagist/dt/spykapps/filament-uppy-upload.svg?style=for-the-badge" alt="Total Downloads">
    </a>
    <a href="https://laravel.com/docs/12.x"><img src="https://img.shields.io/badge/Laravel-12.x-FF2D20?style=for-the-badge&logo=laravel" alt="Laravel 12"></a>
    <a href="https://php.net"><img src="https://img.shields.io/badge/PHP-8.3-777BB4?style=for-the-badge&logo=php" alt="PHP 8.3"></a>
-   <a href="https://github.com/spykapp/filament-uppy-upload/blob/main/LICENSE.md">
+   <a href="https://github.com/spykapps/filament-uppy-upload/blob/main/LICENSE.md">
      <img src="https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge" alt="License">
    </a>
 </p>
